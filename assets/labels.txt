@@ -1,0 +1,21 @@
+0 yawn
+1 no_yawn
+
+0 closed_eye
+1 open_eye
+
+0 hands
+1 no_hands
+
+0 face
+1 no_face
+
+
+
+0 dhandsup
+1 dsleep
+2 dyawn
+3 dheadup
+4 dheadleft
+5 dheadright
+6 headdown
